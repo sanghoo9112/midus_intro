@@ -2354,7 +2354,7 @@ input, select, textarea {
 				background-color: #203936;
 				background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url("../../images/conference_small.jpg");
 				background-repeat: repeat, no-repeat;
-				background-size: auto, 140% auto;
+				background-size: auto, 190% auto;
 				background-position: top left, top center;
 				background-attachment: scroll, scroll;
 				font-size: 14pt;
