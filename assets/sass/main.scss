@@ -178,7 +178,7 @@
 
 	a {
 		@include vendor('transition', ('border-color 0.35s ease-in-out', 'color 0.35s ease-in-out'));
-		color: #35b88f;
+		color: #666666;
 		text-shadow: 0 0 0.5px rgba(53, 184, 143, 0.25);
 		text-decoration: none;
 		border-bottom: dotted 1px rgba(53, 184, 143, 0.5);
@@ -556,7 +556,7 @@
 		position: relative;
 		display: inline-block;
 		border: 0;
-		background: #35b88f;
+		background: #666666;
 		color: #fff;
 		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 		cursor: pointer;
@@ -866,13 +866,13 @@
 		color: #fff;
 		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 		text-align: center;
-		background: #35b88f url('images/banner.svg') bottom center no-repeat;
+		background: #666666 url('images/banner.svg') bottom center no-repeat;
 		padding: 5em 0 5em 0;
 		margin: 0;
 		background-size: 125% auto;
 
 		.button {
-			color: #35b882;
+			color: #666666;
 			text-shadow: 0 0 0.5px rgba(53, 184, 130, 0.25);
 		}
 
@@ -929,7 +929,7 @@
 			border-bottom-color: rgba(255, 255, 255, 0.5);
 
 			&:hover {
-				color: #35b88f;
+				color: #666666;
 				text-shadow: 0 0 0.5px rgba(69, 200, 159, 0.25);
 				border-bottom-color: rgba(53, 184, 143, 0.5);
 			}
@@ -1115,8 +1115,8 @@
 		/* Basic */
 
 			body {
-				background-color: #203936;
-				background-image: url('images/overlay.png'), url('../../images/bg-alt.jpg');
+				background-color: #14100f;
+				background-image: url('../../images/bg-alt.jpg');
 				background-repeat: repeat, no-repeat;
 				background-size: auto, 100% auto;
 				background-position: top left, top center;
